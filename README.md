@@ -1,6 +1,17 @@
 # Routing
 
 
+```json
+{
+    "name": "zanphp/httpdemo",
+    "require": {
+        "zanphp/zan": "dev-master",
+        "zanphp/restful": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
+
+```
 
 ```php
 <?php
